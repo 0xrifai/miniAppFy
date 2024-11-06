@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@telegram-apps/init-data-node": "^1.1.1",
     "@telegram-apps/sdk": "^2.5.2",
     "next": "15.0.2",
     "react": "19.0.0-rc-02c0e824-20241028",
